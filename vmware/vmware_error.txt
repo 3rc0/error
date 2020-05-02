@@ -2,3 +2,8 @@ list of errors
 
 
 Error Code [5x0001]:
+
+# Change the resolution of macOS in VMware Workstation:
+> sudo /Library/Application\ Support/VMware\ Tools/vmware-resolutionSet 1920 1080
+
+Error Code [5x0002]:
